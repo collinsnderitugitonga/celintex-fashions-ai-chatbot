@@ -1,0 +1,1337 @@
+CELINTEX FASHION COMPANY AI KNOWLEDGE BASE RAG-OPTIMIZED MASTER VERSION
+
+Last updated: August 25, 2026 Purpose: This document is the approved
+knowledge source for the Celintex Fashion Company AI chatbot.
+
+================================================== 1. COMPANY
+INFORMATION ==================================================
+
+Company Name: Celintex Fashion Company
+
+Business Type: Fashion design, tailoring, customization, repairs,
+ready-made clothing, and wedding gown hire.
+
+Primary Specialization: Customized Vitenge clothing and African-inspired
+fashion.
+
+About Celintex: Celintex Fashion Company provides professional fashion
+design and tailoring services for customers seeking unique, well-fitted,
+and personalized clothing. Customers may request customized outfits
+based on their preferred design, fabric, colour, occasion, and
+measurements.
+
+Celintex also offers ready-made clothing, wedding gown hire, and
+clothing repair and alteration services.
+
+Physical Location: Nairobi CBD, Accra Road, Scorpio Building.
+
+Phone / WhatsApp: 0722285544
+
+Email: celintexfashiondesigners@gmail.com
+
+Opening Hours: Physical Store/Office: Monday-Saturday, 8:00 AM-6:00 PM.
+Online Support (WhatsApp/Social Media): Monday-Sunday, 9:00 AM-8:00 PM.
+
+Social Media: Instagram: @celintex_fashion TikTok:
+@celintexfashions_Kenya X: @celintexfashions_Kenya
+
+IMPORTANT: The contact and location details above should be verified by
+Celintex before public deployment.
+
+================================================== 2. SERVICES OFFERED
+==================================================
+
+Celintex offers: - Customized Vitenge clothing - Customized
+African-inspired clothing - Ready-made clothing - Wedding gown sales -
+Wedding gown customization - Wedding gown hire - Customized men’s
+suits - Customized shirts - Clothing repairs - Clothing alterations -
+Wedding and groomsmen outfits - Matching outfits
+
+================================================== 3. CUSTOMIZED VITENGE
+CLOTHING ==================================================
+
+Customers may request personalized Vitenge outfits based on: - Design -
+Colour - Fabric - Style - Size - Measurements - Occasion - Finishing
+details
+
+Customers may provide their own Vitenge fabric, subject to the
+Customer-Supplied Fabric Policy.
+
+The AI must not promise that an exact replica of a reference design will
+always be possible.
+
+================================================== 4. CUSTOM ORDER
+PROCESS ==================================================
+
+When a customer is seriously interested in a customized order, the AI
+may collect the following information progressively:
+
+1.  Customer name
+2.  Type of garment
+3.  Intended occasion
+4.  Preferred design
+5.  Preferred colour
+6.  Fabric preference
+7.  Whether the customer has their own fabric
+8.  Number of outfits or pieces
+9.  Required size or measurements
+10. Date the outfit is needed
+11. Reference photo or design, if available
+12. Preferred contact information
+
+The AI should not ask for all information at once unless necessary.
+Collect only information relevant to the customer’s request.
+
+After collecting the necessary information, explain that the final price
+and completion time depend on the design and requirements and must be
+confirmed by Celintex.
+
+================================================== 5. READY-MADE
+CLOTHING ==================================================
+
+Celintex offers ready-made clothing.
+
+The provided catalogue includes ready-made clothing such as dresses and
+other garments. Current stock must always be confirmed with Celintex.
+
+The AI MUST NOT claim that a particular item is currently in stock
+unless live inventory information is available.
+
+================================================== 6. WEDDING SERVICES
+==================================================
+
+Celintex assists customers seeking customized wedding clothing and
+wedding gown services.
+
+Possible services: - Wedding gown sales - Customized wedding gowns -
+Wedding gown hire - Customized Vitenge outfits - Men’s suits - Groomsmen
+outfits - Matching outfits - Other wedding-related clothing
+
+For wedding inquiries, the AI may ask: - What type of outfit do you
+need? - Would you like to purchase or hire a wedding gown? - When is the
+wedding? - Do you have a preferred design? - Do you have a reference
+photo? - Do you already have the fabric? - Do you require customization?
+
+Because wedding outfits are often time-sensitive, customers should be
+encouraged to contact Celintex as early as possible.
+
+For wedding gown hire, the AI must direct the customer to Celintex to
+confirm: - Gown availability - Size - Fitting arrangements - Hire
+charge - Booking deposit - Security/caution fee - Hire period -
+Collection date - Return date - Cancellation conditions - Applicable
+damage or late-return charges
+
+================================================== 7. MEN’S SUITS ================================================
+
+Celintex creates customized men’s suits.
+
+Possible customization options include: - Suit style - Fabric - Colour -
+Number of pieces - Fit - Buttons - Lapel style - Pocket style - Matching
+shirts - Accessories
+
+Exact available options must be confirmed by the Celintex team.
+
+================================================== 8. CLOTHING REPAIRS
+AND ALTERATIONS ==================================================
+
+Celintex provides clothing repair and alteration services.
+
+Examples: - Repairing torn clothing - Adjusting loose garments -
+Adjusting tight garments - Replacing broken zips - Resizing - Other
+tailoring repairs
+
+For repair requests, the AI should ask: 1. What garment requires repair?
+2. What is wrong with the garment? 3. Can the customer bring the garment
+for assessment? 4. If appropriate, can the customer provide a photo?
+
+The AI must not promise that a repair can be completed before a tailor
+assesses the garment.
+
+The AI must not provide a final repair price without sufficient
+information or professional assessment.
+
+================================================== 9. PRICING RULES
+==================================================
+
+PRIMARY PRICING RULE: Celintex prices must not be invented by the AI.
+
+Pricing may depend on: - Type of garment - Design complexity - Fabric -
+Amount of fabric required - Embroidery - Decoration - Beading - Number
+of pieces - Measurements - Alterations - Urgency - Finishing
+requirements - Other customization requirements
+
+VERIFIED PRICE LIST PROVIDED FOR THE KNOWLEDGE BASE:
+
+Women’s clothing: - Custom dress: KSh 1,500-3,000 - Ready-made dress:
+KSh 2,000
+
+Men’s clothing: - Custom suit: KSh 8,000-15,000 - Custom shirt: KSh
+1,000-4,500
+
+Wedding: - Wedding gown: KSh 20,000-120,000 - Bridesmaid dress: KSh
+3,000-10,000
+
+Repairs and alterations: - Basic alteration: KSh 100-900 - Major repair:
+KSh 1,000-2,000
+
+Wedding gown hire: - KSh 10,000-35,000
+
+IMPORTANT PRICE RULE: The prices above are the price information
+supplied for this knowledge base. Before public deployment, Celintex
+should confirm that every listed price is current and official.
+
+Do NOT use the alternative generic/typical market ranges from earlier
+drafts. They have been removed to prevent conflicting answers.
+
+If a customer asks for an exact price and the exact price is not
+available: “Sorry, I don’t have the exact current price for that
+specific item in my Celintex catalogue. Please contact the Celintex team
+on 0722285544 for the latest quotation.”
+
+For customized garments: “The price depends on the design, fabric, and
+finishing details. 😊 If you tell me the type of garment and the design
+you have in mind, I can help you provide the information needed for a
+quotation.”
+
+================================================== 10. MEASUREMENTS
+==================================================
+
+Accurate measurements are important for customized clothing and wedding
+gown hire.
+
+Measurement Location: Accra Road, Scorpio Building, Nairobi CBD.
+
+Measurement Procedure:
+
+1.  Book a Measurement Appointment
+
+-   Customers should schedule a measurement appointment with Celintex
+    where required.
+-   Customers should arrive on time.
+
+2.  Prepare for Measurement
+
+-   Wear comfortable, fitted clothing where possible.
+-   For wedding gowns or formal wear, customers should bring or wear the
+    undergarments and shoes intended for the outfit where practical.
+
+3.  Professional Measurement
+
+-   Measurements should be taken by a Celintex tailor or authorized
+    staff member.
+-   A proper measuring tape should be used.
+-   The tape should be placed comfortably, not excessively tight or
+    loose.
+
+4.  Possible Measurements Depending on the garment, measurements may
+    include:
+
+-   Bust/chest
+-   Underbust
+-   Waist
+-   Hips
+-   Shoulder width
+-   Neck
+-   Arm/bicep
+-   Sleeve length
+-   Dress/garment length
+-   Back length
+-   Trouser waist
+-   Thigh
+-   Knee
+-   Inseam
+-   Height
+
+5.  Measurement Verification
+
+-   Important measurements should be checked before recording.
+-   The customer should confirm that the recorded measurements are
+    theirs before production or alteration begins.
+
+6.  Special Garments Wedding gowns, men’s suits, trousers, bridesmaid
+    dresses, and other customized garments may require additional
+    measurements depending on the design.
+
+The tailor determines which measurements are necessary.
+
+7.  Measurement Changes Customers should inform Celintex if their body
+    measurements change significantly before final fitting. Additional
+    adjustments may be required.
+
+The AI must not invent garment-specific measurement requirements.
+
+If a customer asks: “Can I send my measurements?”
+
+Answer: “Yes, we can guide you on the measurements required for your
+outfit. 😊 Please contact the Celintex team for the correct measurement
+instructions.”
+
+================================================== 11. FITTING
+APPOINTMENT PROCEDURE ==================================================
+
+1.  Schedule the fitting.
+2.  Arrive on time.
+3.  Bring relevant shoes, undergarments, shirts, or accessories where
+    they may affect the fit.
+4.  Try on the garment under tailor supervision.
+5.  Assess fit, length, comfort, and overall appearance.
+6.  Identify required adjustments.
+7.  Approved alterations are carried out by Celintex staff or authorized
+    personnel.
+8.  A second or additional fitting may be scheduled if required.
+9.  Attend the final fitting.
+10. Inspect the garment before collection and report concerns
+    immediately.
+
+Customers must not make alterations themselves.
+
+For wedding outfits, the final fitting should ideally occur sufficiently
+before the wedding date to allow necessary adjustments.
+
+================================================== 12. CUSTOMER-SUPPLIED
+FABRIC POLICY ==================================================
+
+Celintex may accept customer-supplied fabric subject to inspection and
+suitability.
+
+1.  Fabric Inspection
+
+-   Celintex will inspect the fabric before accepting it for production.
+-   The tailor may assess condition, quality, size, colour, stretch, and
+    suitability for the requested design.
+
+2.  Customer Responsibility
+
+-   The customer is responsible for providing sufficient fabric.
+-   Celintex may advise on the approximate amount required.
+-   The customer should provide the agreed fabric.
+
+3.  Fabric Suitability
+
+-   Celintex may advise that supplied fabric is unsuitable.
+-   Some designs require particular fabric characteristics such as
+    structure, weight, or stretch.
+
+4.  Fabric Condition Celintex is not responsible for pre-existing
+    defects including:
+
+-   Stains
+-   Fading
+-   Weak areas
+-   Holes
+-   Discolouration
+-   Manufacturing defects
+
+Noticeable defects should be identified and recorded before cutting.
+
+5.  Cutting and Wastage
+
+-   Once fabric is cut, it may not be possible to return it to its
+    original form.
+-   Some fabric may remain unused.
+-   Cutting should begin only after design and measurements are
+    approved.
+
+6.  Insufficient Fabric If fabric is insufficient, the customer may need
+    to:
+
+-   Provide additional fabric, or
+-   Agree to a design modification.
+
+7.  Colour and Material Variations Celintex is not responsible for
+    variations already present in customer-supplied fabric. Additional
+    fabric may have differences in colour, texture, or dye lot.
+
+8.  Fabric Handling Celintex will take reasonable care when handling
+    customer-supplied fabric.
+
+9.  Leftover Fabric Significant unused fabric should be returned upon
+    collection unless otherwise agreed. Small scraps or cutting waste
+    may not be suitable for return.
+
+10. Customer Approval The customer should confirm design, measurements,
+    and fabric suitability before cutting begins.
+
+Changes after cutting may attract additional charges or may not be
+possible.
+
+AI RULE: The AI must not assume how much fabric is required, whether
+damaged fabric can be used, or whether a specific fabric is suitable
+without assessment by Celintex.
+
+================================================== 13. CUSTOMER DESIGN
+REQUESTS ==================================================
+
+Customers may provide: - Reference photos - Sketches - Their own
+designs - Preferred styles - Combinations of different designs
+
+The AI should encourage customers to share a reference image or describe
+the design.
+
+Recommended response: “Absolutely! 😊 You can share a reference photo or
+describe the design you would like. Our team can then advise you on the
+best way to customize it.”
+
+The AI must not promise an exact replica.
+
+================================================== 14. WEDDING GOWN HIRE
+POLICY ==================================================
+
+Celintex offers wedding gown hire.
+
+Customers should reserve preferred gowns in advance because availability
+may be limited.
+
+A. Identification - Valid identification may be required when hiring a
+gown. - Customer details may be recorded for reservation and
+accountability.
+
+B. Booking and Reservation - A booking deposit is required to reserve a
+gown. - The gown is reserved after the required deposit is received. -
+Customers should provide their wedding date and preferred fitting
+date. - Early booking is recommended.
+
+IMPORTANT: The exact booking deposit amount must be confirmed by
+Celintex. The provided materials contain different draft figures, so the
+chatbot must not quote a percentage or fixed amount unless Celintex
+verifies it.
+
+C. Security/Caution Fee - A refundable security/caution fee may be
+required. - The amount must be confirmed by Celintex before quoting
+it. - The applicable refundable balance is returned after inspection
+according to Celintex procedures. - The fee may be used to cover
+eligible damage, loss, excessive staining, late return, or other
+applicable charges.
+
+IMPORTANT: The provided materials contained conflicting caution-fee
+figures. The chatbot must not quote a fixed amount until Celintex
+confirms the official amount.
+
+D. Rental Duration - The standard draft hire period is described as 3-5
+days. - Typical draft collection is Thursday or Friday before the
+wedding. - Typical draft return is Monday or Tuesday. - Exact collection
+and return dates must be confirmed during booking.
+
+IMPORTANT: The 3-5 day period and typical collection/return days should
+be treated as provisional until Celintex confirms them.
+
+E. Late Returns - The gown must be returned on the agreed date. - Late
+return may attract an additional charge. - The exact late-return charge
+must be confirmed by Celintex.
+
+IMPORTANT: The provided materials contained conflicting draft
+late-return figures. Do not quote a fixed amount until verified.
+
+F. Cleaning - Celintex handles appropriate cleaning where stated in the
+hiring arrangement. - Customers must not wash, iron, dry-clean, or
+chemically treat the gown themselves unless instructed by Celintex.
+
+G. Alterations - Standard hired gowns must not be permanently altered. -
+Minor temporary adjustments may be possible depending on the gown. -
+Approved adjustments must be made by Celintex staff or an authorized
+person. - Customers must not cut, sew, modify, or permanently alter the
+gown without permission.
+
+H. Damage, Stains and Loss Customers are responsible for the gown while
+it is in their possession.
+
+Potential chargeable issues include: - Serious stains - Heavy tears -
+Burn marks - Significant fabric damage - Beadwork damage - Unauthorized
+alterations - Loss or non-return
+
+If the gown is lost or cannot be recovered, the customer may be required
+to pay the applicable replacement cost according to Celintex policy.
+
+Damage or loss charges may be deducted from the security/caution fee. If
+the amount exceeds the caution fee, the customer may be required to pay
+the remaining balance.
+
+I. Inspection Before Collection Customers should inspect the gown before
+taking possession.
+
+Existing: - Stains - Tears - Missing decorations - Other defects
+
+should be reported and recorded before collection.
+
+J. Cancellation and Refunds Cancellation and refund conditions are
+subject to Celintex’s official cancellation policy.
+
+Booking deposits may be non-refundable depending on the agreed booking
+terms.
+
+Security/caution fees are refundable subject to the agreed hire
+conditions.
+
+K. Payment The applicable hire fee, booking deposit, security/caution
+fee, and other charges must be paid according to Celintex’s payment
+policy.
+
+The gown will not be released until required payments and booking
+requirements are fulfilled.
+
+L. Customer Responsibility The customer must: - Take reasonable care of
+the gown. - Not lend, rent, transfer, or give the gown to another person
+without permission. - Return the gown by the agreed date. - Return the
+gown in the agreed condition.
+
+IMPORTANT: Customers should confirm the hire price, deposit, caution
+fee, collection date, return date, and cancellation terms before
+completing a booking.
+
+================================================== 15. WEDDING ORDER
+TIMELINE ==================================================
+
+Wedding order timeline: TO BE PROVIDED BY CELINTEX.
+
+The AI must not invent a wedding production timeline.
+
+================================================== 16. MEN’S PRODUCT
+CATALOGUE ==================================================
+
+IMPORTANT CATALOGUE RULE: The following products were supplied as the
+Celintex men’s catalogue. The AI may describe products using only the
+specifications listed here. Current stock, price, colours, sizes, and
+availability must be confirmed unless explicitly provided by the
+knowledge base.
+
+A. PREMIUM MEN’S APPAREL
+
+1.  Classic Oxford Shirt Description: Classic men’s Oxford shirt.
+
+Specifications: - Material: 100% Egyptian cotton - Fit: Slim-fit
+silhouette - Collar: Button-down - Suitable for: Smart casual and formal
+occasions
+
+Price: Contact Celintex for the current KSh price.
+
+2.  Tailored Wool Blazer Description: Tailored men’s blazer designed for
+    a polished and professional appearance.
+
+Specifications: - Material: Italian wool blend - Fit: Slim-fit - Lining:
+Fully lined - Design: Dual rear vents - Suitable for: Business wear,
+formal occasions, smart events
+
+Price: Contact Celintex for the current KSh price.
+
+3.  Slim-Fit Stretch Chinos Specifications:
+
+-   Material: Premium long-staple cotton
+-   Stretch: 2% elastane
+-   Fit: Slim-fit
+-   Feature: Flexible comfort
+-   Suitable for: Casual and smart-casual wear
+
+Price: Contact Celintex for the current KSh price.
+
+4.  Merino Crewneck Sweater Specifications:
+
+-   Material: 100% Merino wool
+-   Texture: Ultra-soft
+-   Feature: Breathable
+-   Style: Crewneck
+-   Suitable for: Layering and smart-casual outfits
+
+Price: Contact Celintex for the current KSh price.
+
+5.  Water-Resistant Trench Specifications:
+
+-   Feature: Water-resistant
+-   Style: Classic double-breasted
+-   Lining: Detachable thermal liner
+-   Suitable for: Formal, smart-casual and outdoor wear
+
+Price: Contact Celintex for the current KSh price.
+
+B. MEN’S FOOTWEAR
+
+6.  Heritage Leather Boots Specifications:
+
+-   Material: Full-grain leather
+-   Construction: Goodyear welt
+-   Sole: Durable rubber lug sole
+-   Suitable for: Formal, smart-casual and outdoor-inspired outfits
+
+Price: Contact Celintex for the current KSh price.
+
+7.  Classic Leather Loafers Specifications:
+
+-   Material: Calfskin leather
+-   Construction: Handcrafted
+-   Insole: Memory foam
+-   Design: Slip-on
+-   Suitable for: Business, formal and smart-casual occasions
+
+Price: Contact Celintex for the current KSh price.
+
+8.  Minimalist White Sneakers Specifications:
+
+-   Upper: Premium Nappa leather
+-   Sole: Stitched Margom rubber sole
+-   Colour: White
+-   Style: Minimalist
+-   Suitable for: Casual and smart-casual outfits
+
+Price: Contact Celintex for the current KSh price.
+
+9.  Suede Chelsea Boots Specifications:
+
+-   Material: Premium Italian suede
+-   Side panels: Flexible elastic
+-   Feature: Pull tabs
+-   Style: Chelsea boot
+-   Suitable for: Smart-casual and formal outfits
+
+Price: Contact Celintex for the current KSh price.
+
+10. Wingtip Dress Shoes Specifications:
+
+-   Material: Burnished calfskin leather
+-   Design: Intricate brogue detailing
+-   Style: Wingtip
+-   Suitable for: Formal occasions, business wear and special events
+
+Price: Contact Celintex for the current KSh price.
+
+C. MEN’S TIMEPIECES AND ACCESSORIES
+
+11. Chronograph Stainless Watch Specifications:
+
+-   Case size: 42mm
+-   Movement: Japanese quartz
+-   Water resistance: 50m
+-   Style: Chronograph
+-   Suitable for: Everyday and formal wear
+
+Price: Contact Celintex for the current KSh price.
+
+12. Bifold Leather Wallet Specifications:
+
+-   Material: Top-grain leather
+-   Type: Bifold
+-   Security: RFID-blocking technology
+-   Capacity: 8 card slots
+-   Suitable for: Everyday use
+
+Price: Contact Celintex for the current KSh price.
+
+13. Minimalist Matte Tie Bar Specifications:
+
+-   Material: Stainless steel
+-   Finish: Matte
+-   Mechanism: Secure tension spring
+-   Suitable for: Standard ties and formal outfits
+
+Price: Contact Celintex for the current KSh price.
+
+14. Full-Grain Leather Belt Specifications:
+
+-   Material: Full-grain leather
+-   Width: 1.5 inches
+-   Buckle: Solid brass
+-   Edges: Hand-finished
+-   Suitable for: Formal and casual trousers
+
+Price: Contact Celintex for the current KSh price.
+
+15. Premium Canvas Duffel Bag Specifications:
+
+-   Material: Water-resistant canvas
+-   Trim: Leather
+-   Strap: Detachable shoulder strap
+-   Suitable for: Travel, gym and everyday carrying
+
+Price: Contact Celintex for the current KSh price.
+
+D. MEN’S GROOMING AND FRAGRANCE
+
+16. Signature Eau de Parfum Specifications:
+
+-   Fragrance profile: Woody citrus
+-   Notes: Cedar, bergamot and amber
+-   Volume: 100ml
+-   Suitable for: Everyday wear and special occasions
+
+Price: Contact Celintex for the current KSh price.
+
+17. Hydrating Face Moisturizer Specifications:
+
+-   Formula: Non-greasy
+-   Key ingredients: Hyaluronic acid and vitamin E
+-   Volume: 75ml
+-   Suitable for: Facial hydration
+
+Price: Contact Celintex for the current KSh price.
+
+18. Sandalwood Beard Oil Specifications:
+
+-   Fragrance: Sandalwood
+-   Oils: Argan and jojoba
+-   Volume: 30ml
+-   Benefits: Softens beard hair and hydrates skin
+-   Suitable for: Beard grooming
+
+Price: Contact Celintex for the current KSh price.
+
+19. Charcoal Facial Cleanser Specifications:
+
+-   Key ingredient: Activated charcoal
+-   Function: Removes impurities
+-   Feature: Designed to cleanse without drying the skin
+-   Suitable for: Facial cleansing
+
+Price: Contact Celintex for the current KSh price.
+
+20. Premium Safety Razor Set Specifications:
+
+-   Razor: Double-edge safety razor
+-   Brush: Synthetic bristle brush
+-   Stand: Chrome stand
+-   Suitable for: Traditional shaving and grooming
+
+Price: Contact Celintex for the current KSh price.
+
+IMPORTANT: Celintex should verify that all 20 catalogue products and
+their specifications are genuinely offered before public deployment.
+
+================================================== 17. RETURNS AND
+EXCHANGES ==================================================
+
+GENERAL RETURN AND EXCHANGE POLICY
+
+Eligible ready-made products can generally be returned or exchanged
+within 7 days of purchase.
+
+Returned products should be: - Unworn - Unused - In original condition -
+Free from stains - Free from damage - Free from alterations - Unwashed -
+Returned with original packaging and tags - Accompanied by receipt or
+other proof of purchase
+
+Customers should contact Celintex before returning an item.
+
+EXCHANGES: Eligible products may be exchanged for: - Different size -
+Different available colour - Another product of the same value, subject
+to availability
+
+If the replacement costs more, the customer pays the difference.
+
+If the replacement costs less, the applicable balance is handled
+according to Celintex refund procedures.
+
+NON-RETURNABLE PRODUCTS: Generally not eligible for return or
+exchange: - Customized clothing - Made-to-measure clothing -
+Personalized products - Altered garments - Used or washed clothing -
+Products damaged by the customer - Opened or used grooming/personal-care
+products - Opened or used fragrances
+
+DAMAGED OR INCORRECT PRODUCTS: If a customer receives a damaged,
+defective, or incorrect product, they should contact Celintex as soon as
+possible.
+
+Celintex may request photographs or other information.
+
+If the issue is confirmed to be a Celintex error or product defect,
+Celintex may offer: - Replacement - Exchange - Another appropriate
+solution
+
+RETURN COSTS: For customer-initiated returns such as change of mind or
+incorrect size selection, the customer may be responsible for applicable
+return or delivery costs.
+
+If the product is defective, damaged, or incorrect due to Celintex
+error, Celintex may cover applicable return or replacement costs.
+
+REFUNDS: Approved refunds are processed according to Celintex’s payment
+and refund procedures. Where possible, refunds may be made through the
+original payment method.
+
+================================================== 18. CUSTOMIZED
+CLOTHING POLICY ==================================================
+
+Customized garments are produced according to the customer’s selected: -
+Design - Measurements - Fabric - Colour - Style - Other specifications
+
+Before production, customers should confirm all important details.
+
+CUSTOMIZED CLOTHING RETURNS: Customized, personalized, and
+made-to-measure clothing is generally not eligible for return simply
+because the customer changes their mind.
+
+MEASUREMENTS: Customers are responsible for providing accurate
+measurements where required. Celintex may take measurements directly.
+
+DESIGN CONFIRMATION: Before production begins, customers should
+confirm: - Garment type - Design - Fabric - Colour - Style -
+Measurements - Other agreed specifications
+
+Once production starts, changes may not be possible or may attract
+additional charges.
+
+FITTING ISSUES: If a completed customized garment has a fitting issue
+caused by an error in Celintex’s measurements or production, the
+customer should contact Celintex for assessment.
+
+Where appropriate, Celintex may provide a reasonable alteration or
+correction.
+
+Changes caused by customer measurement changes or new requirements may
+attract additional charges.
+
+CUSTOMER-REQUESTED CHANGES: Changes after design approval or after
+production begins may: - Attract an additional fee - Extend completion
+time - Be impossible depending on production stage
+
+COLLECTION: Customers should inspect customized garments during fitting
+or collection and raise concerns promptly.
+
+CANCELLATION: Cancellation after production has started may not qualify
+for a full refund because materials, labour, and production time may
+already have been used.
+
+Applicable cancellation terms should be confirmed before placing the
+order.
+
+================================================== 19. DELIVERY
+==================================================
+
+Delivery areas: TO BE PROVIDED BY CELINTEX.
+
+Delivery charges: TO BE PROVIDED BY CELINTEX.
+
+Estimated delivery times: TO BE PROVIDED BY CELINTEX.
+
+Delivery partners: TO BE PROVIDED BY CELINTEX.
+
+If delivery information is unavailable, answer: “Let me connect you with
+the Celintex team so they can confirm the available delivery options and
+charges.”
+
+The AI must never invent delivery charges, delivery times, delivery
+areas, or delivery partners.
+
+================================================== 20. PAYMENTS
+==================================================
+
+Accepted payment methods: TO BE PROVIDED BY CELINTEX.
+
+Deposit requirement: TO BE PROVIDED BY CELINTEX.
+
+Payment procedure: TO BE PROVIDED BY CELINTEX.
+
+Payment details: TO BE PROVIDED BY CELINTEX.
+
+The AI must NEVER invent or guess: - Phone payment numbers - Till
+numbers - Paybill numbers - Bank accounts - Account numbers - Card
+details - Payment instructions
+
+================================================== 21. ORDER STATUS
+==================================================
+
+Order tracking system: TO BE IMPLEMENTED.
+
+If order tracking is connected to the website, the AI may assist
+customers using verified order information.
+
+Possible required information: - Order number - Customer name - Phone
+number
+
+If the AI cannot access order information, it must not pretend to know
+the status.
+
+Recommended response: “I do not currently have access to your order
+status. Please contact the Celintex team with your order details, and
+they will be able to assist you.”
+
+================================================== 22. HUMAN AGENT
+HANDOFF ==================================================
+
+The AI should offer human assistance when: - Customer requests a human
+representative - Customer is dissatisfied - Complaint is complex -
+Refund is requested - Price requires manual quotation - Custom design
+requires professional assessment - Customer wants to hire a wedding
+gown - Wedding gown availability requires confirmation - Hire terms
+require confirmation - AI does not know the answer - Customer needs a
+special arrangement
+
+Recommended response: “I understand. 😊 This request requires assistance
+from the Celintex team. Please contact the Celintex team on 0722285544
+for further assistance.”
+
+Human support contact: 0722285544
+
+================================================== 23. LEAD COLLECTION
+==================================================
+
+When a customer shows serious interest in ordering or hiring, the AI may
+collect only information necessary for the request.
+
+Possible information: - Name - Phone number - Email address, if
+voluntarily provided - Service required - Preferred design - Occasion -
+Required date - Preferred contact method
+
+For wedding gown hire, the AI may also collect: - Preferred gown size -
+Wedding date - Fitting date - Desired hire period
+
+The AI should explain why information is needed when appropriate.
+
+The AI must not request: - Passwords - PINs - Card numbers - CVV codes -
+OTPs - Other sensitive authentication information
+
+================================================== 24. AI PERSONALITY
+==================================================
+
+The Celintex AI assistant should be: - Friendly - Professional -
+Helpful - Fashion-aware - Respectful - Concise - Welcoming - Honest
+
+Language should be clear, simple, and natural.
+
+Occasional emojis are allowed: 😊 👗 👔 🧵 ✨
+
+Do not overuse emojis.
+
+The AI should identify itself as Celintex’s virtual fashion assistant
+and must not pretend to be a human employee.
+
+================================================== 25. CORE CHATBOT
+BEHAVIOUR RULES ==================================================
+
+The AI MUST:
+
+1.  Represent itself as Celintex’s virtual fashion assistant.
+2.  Use verified Celintex information as its primary source of truth.
+3.  Ask questions when information is missing.
+4.  Be transparent when information is unavailable.
+5.  Recommend human assistance when necessary.
+6.  Protect customer information.
+7.  Avoid promises it cannot guarantee.
+8.  Confirm important details before giving an answer.
+9.  Keep responses relevant to the customer’s question.
+10. Encourage customers to contact Celintex for quotations and
+    specialized requests.
+11. Treat wedding gown availability as requiring confirmation.
+12. Confirm wedding gown hire charges, deposits, hire periods, fitting
+    arrangements, and return conditions with Celintex when not
+    explicitly verified.
+13. Distinguish current/verified information from information marked as
+    provisional or unavailable.
+
+The AI MUST NOT:
+
+1.  Invent prices.
+2.  Invent products.
+3.  Invent stock availability.
+4.  Invent wedding gown availability.
+5.  Invent deposits or security-deposit amounts.
+6.  Invent late-return penalties.
+7.  Invent refund amounts.
+8.  Invent delivery charges.
+9.  Invent delivery times.
+10. Invent payment details.
+11. Claim an order is completed without confirmation.
+12. Pretend to be a human employee.
+13. Guarantee an exact customized design.
+14. Reveal confidential company information.
+15. Present unavailable information as fact.
+16. Treat generic market prices as Celintex prices.
+17. Guess product sizes, colours, specifications, or availability.
+
+================================================== 26. UNKNOWN
+INFORMATION POLICY ==================================================
+
+When requested information is not available or verified, the AI should
+say:
+
+“Sorry, I don’t have that specific information in my current Celintex
+knowledge base. Please contact Celintex Fashion Company for the latest
+details.”
+
+For information requiring a quotation: “Please contact the Celintex team
+on 0722285544 for the current quotation.”
+
+The AI should never fill missing information with guesses.
+
+================================================== 27. MEN’S PRODUCT FAQ
+==================================================
+
+Q: What men’s products does Celintex offer? A: The provided men’s
+catalogue includes apparel, footwear, watches, accessories, grooming
+products, and fragrance.
+
+Q: Do you sell men’s shirts? A: Yes. The catalogue includes the Classic
+Oxford Shirt, described as 100% Egyptian cotton with a slim-fit
+silhouette and button-down collar. Current availability and price should
+be confirmed with Celintex.
+
+Q: Do you sell men’s blazers? A: Yes. The catalogue includes the
+Tailored Wool Blazer, described as a slim-fit Italian wool blend blazer
+with full lining and dual rear vents. Current availability and price
+should be confirmed with Celintex.
+
+Q: Do you sell men’s trousers? A: Yes. The catalogue includes Slim-Fit
+Stretch Chinos made from premium long-staple cotton with 2% elastane.
+
+Q: Do you sell men’s shoes? A: Yes. The catalogue includes Heritage
+Leather Boots, Classic Leather Loafers, Minimalist White Sneakers, Suede
+Chelsea Boots, and Wingtip Dress Shoes.
+
+Q: Do you sell men’s watches? A: Yes. The catalogue includes the
+Chronograph Stainless Watch with a 42mm case, Japanese quartz movement,
+and 50m water resistance.
+
+Q: Do you sell men’s wallets? A: Yes. The catalogue includes the Bifold
+Leather Wallet with top-grain leather, RFID-blocking technology, and 8
+card slots.
+
+Q: Do you sell men’s belts? A: Yes. The catalogue includes the
+Full-Grain Leather Belt with a solid brass buckle and hand-finished
+edges.
+
+Q: Do you sell men’s bags? A: Yes. The catalogue includes the Premium
+Canvas Duffel Bag with water-resistant canvas, leather trim, and a
+detachable shoulder strap.
+
+Q: Do you sell men’s perfumes? A: Yes. The catalogue includes Signature
+Eau de Parfum with a woody citrus profile, cedar, bergamot, amber, and
+100ml volume.
+
+Q: Do you sell beard products? A: Yes. The catalogue includes Sandalwood
+Beard Oil containing argan and jojoba oils.
+
+Q: Do you sell facial products for men? A: Yes. The catalogue includes
+Hydrating Face Moisturizer and Charcoal Facial Cleanser.
+
+Q: Do you sell shaving products? A: Yes. The catalogue includes a
+Premium Safety Razor Set with a double-edge safety razor, synthetic
+bristle brush, and chrome stand.
+
+Q: What are your men’s product prices? A: Prices for the listed men’s
+catalogue products are not specified in the current knowledge base.
+Please contact Celintex for current KSh prices.
+
+================================================== 28. GENERAL CUSTOMER
+FAQ ==================================================
+
+Q: Do you make customized Vitenge clothes? A: Yes. Celintex specializes
+in customized Vitenge clothing. You can discuss your preferred design,
+fabric, colour, and fit with the team.
+
+Q: Do you sell ready-made clothes? A: Yes. Celintex offers ready-made
+clothing. Current items and stock should be confirmed with the Celintex
+team.
+
+Q: Do you sell wedding gowns? A: Yes. Celintex offers wedding gown
+services, including customized wedding gowns for sale. Specific designs,
+availability, and quotations should be confirmed with the team.
+
+Q: Do you hire out wedding gowns? A: Celintex offers wedding gown hire.
+Please contact the team to confirm available gowns, sizes, fitting
+arrangements, hire charges, deposit requirements, hire period, and
+return conditions.
+
+Q: Do you make wedding gowns? A: Yes. Celintex offers customized wedding
+gown services. A consultation is recommended for a specific design and
+quotation.
+
+Q: Do you make men’s suits? A: Yes. Celintex makes customized men’s
+suits. Customers can discuss style, fabric, colour, and fit with the
+team.
+
+Q: Do you repair clothes? A: Yes. Celintex offers clothing repair and
+alteration services. Describe the repair required or provide a photo
+where appropriate.
+
+Q: Can I bring my own fabric? A: Customers may inquire about using their
+own fabric. Celintex should assess the fabric before confirming whether
+it is suitable.
+
+Q: How much does a customized outfit cost? A: The price depends on the
+garment, design, fabric, and finishing requirements. Celintex should
+provide the final quotation.
+
+Q: How much does it cost to hire a wedding gown? A: The supplied
+knowledge base lists wedding gown hire at KSh 10,000-35,000. The
+customer should confirm the current applicable price, gown availability,
+deposit, hire period, and return terms with Celintex.
+
+Q: How long does a customized outfit take? A: Production time depends on
+the type and complexity of the outfit and Celintex’s current workload.
+The team should confirm the expected completion date.
+
+Q: Can I send a picture of the design I want? A: Yes. A reference
+picture can help the Celintex team understand the preferred style.
+
+Q: Can I speak to someone from Celintex? A: Certainly. 😊 Please contact
+the Celintex team on 0722285544 for further assistance.
+
+================================================== 29. RETURNS FAQ
+==================================================
+
+Q: Can I return a product? A: Eligible ready-made products can generally
+be returned within 7 days of purchase if they are unused, unworn, and in
+original condition with tags and proof of purchase.
+
+Q: Can I exchange a product for another size? A: Yes, eligible products
+can be exchanged for another available size, subject to availability.
+
+Q: Can I exchange a product for another colour? A: Yes, if the requested
+colour is available and the product qualifies for exchange.
+
+Q: Can I return customized clothing? A: Customized, made-to-measure, and
+personalized clothing is generally not eligible for return simply
+because the customer changed their mind.
+
+Q: Can I return an item after wearing it? A: Generally, no. Returned
+items should be unused, unworn, and in original condition.
+
+Q: What if I receive the wrong product? A: Contact Celintex as soon as
+possible. Celintex may request photographs or other information and will
+provide an appropriate solution if the error is confirmed.
+
+Q: What if my product arrives damaged? A: Contact Celintex as soon as
+possible and provide details or photographs. Celintex will assess the
+issue and may offer a replacement, exchange, or another appropriate
+solution.
+
+Q: Can I return perfume after opening it? A: Opened or used fragrances
+are generally not eligible for return or exchange.
+
+Q: Can I return grooming products after using them? A: Opened or used
+grooming and personal-care products are generally not eligible for
+return or exchange.
+
+Q: Who pays for return delivery? A: For customer-initiated returns such
+as change of mind or incorrect size selection, the customer may be
+responsible for return or delivery costs. If the product is defective,
+damaged, or incorrect due to a Celintex error, Celintex may cover
+applicable costs.
+
+Q: What do I need when returning an item? A: The product should be in
+original condition with tags and packaging, together with proof of
+purchase.
+
+================================================== 30. WEDDING GOWN HIRE
+FAQ ==================================================
+
+Q: Can I hire a wedding gown from Celintex? A: Yes. Celintex offers
+wedding gown hire. Customers should reserve their preferred gown in
+advance and confirm the wedding date and fitting requirements.
+
+Q: Do I need to pay a deposit to hire a wedding gown? A: Yes. A booking
+deposit is required to reserve a wedding gown. A security deposit may
+also be required depending on the hire arrangement. Confirm the
+applicable amounts with Celintex.
+
+Q: When should I return a hired wedding gown? A: The gown should be
+returned on the agreed return date specified when making the booking.
+
+Q: What happens if I return the wedding gown late? A: Late returns may
+attract additional charges because the gown may be reserved for another
+customer. Confirm the applicable charge with Celintex.
+
+Q: Can I wash the wedding gown myself? A: Customers should not wash or
+dry-clean a hired wedding gown themselves unless specifically instructed
+by Celintex.
+
+Q: What happens if I damage the hired wedding gown? A: Customers may be
+responsible for applicable repair, cleaning, or replacement costs
+depending on the extent of the damage.
+
+Q: Is the wedding gown security deposit refundable? A: The applicable
+refundable balance is returned according to Celintex’s procedures when
+the gown is returned according to the agreed conditions.
+
+Q: Can I alter a hired wedding gown? A: Major alterations or
+unauthorized modifications are generally not permitted. Contact Celintex
+to discuss fitting requirements.
+
+Q: Can I cancel my wedding gown booking? A: Customers should contact
+Celintex as soon as possible. Deposit and cancellation terms depend on
+the agreed booking conditions.
+
+================================================== 31. CUSTOMIZED
+CLOTHING FAQ ==================================================
+
+Q: Does Celintex make customized clothes? A: Yes. Celintex offers
+customized and made-to-measure clothing based on preferred design,
+fabric, colour, and measurements.
+
+Q: Can I return customized clothing? A: Customized, personalized, and
+made-to-measure clothing is generally not eligible for return simply
+because the customer changed their mind.
+
+Q: Can I change my design after ordering? A: Design changes may be
+possible before production begins. Once production starts, changes may
+not be possible or may attract additional charges.
+
+Q: What happens if my customized clothing does not fit correctly? A:
+Contact Celintex so the fitting issue can be assessed. If the issue
+resulted from a Celintex measurement or production error, an appropriate
+alteration or correction may be provided.
+
+Q: Can I request alterations after my customized garment is completed?
+A: Yes, depending on the type of alteration. Alterations caused by a
+Celintex error may be handled appropriately, while customer-requested
+changes may attract additional charges.
+
+Q: What should I confirm before Celintex starts making my customized
+clothes? A: Confirm the garment type, design, fabric, colour, style,
+measurements, and other agreed specifications before production begins.
+
+Q: Can I cancel a customized clothing order? A: Cancellation after
+production has started may not qualify for a full refund because
+materials, labour, and production time may already have been used.
+Confirm cancellation terms before placing the order.
+
+================================================== 32. EXAMPLE CUSTOMER
+CONVERSATIONS ==================================================
+
+CUSTOM DRESS
+
+Customer: I want a Vitenge dress.
+
+AI: Certainly! 👗😊 Celintex specializes in customized Vitenge clothing.
+Do you already have a design in mind, or would you like assistance
+selecting a style?
+
+PRICE QUESTION
+
+Customer: How much is a Vitenge dress?
+
+AI: The price depends on the design, fabric, and finishing details. If
+you tell me the type of dress you are looking for, I can help you
+provide the information needed for a quotation.
+
+WEDDING GOWN PURCHASE
+
+Customer: Can you make my wedding gown?
+
+AI: Yes. 👰✨ Celintex offers customized wedding gown services. If you
+have a reference picture or preferred design, you can share it with the
+team for consultation and quotation.
+
+WEDDING GOWN HIRE
+
+Customer: Do you hire wedding gowns?
+
+AI: Yes. Celintex offers wedding gown hire. 👰✨ Please contact the team
+to confirm available gowns, sizes, fitting arrangements, hire charges,
+deposit requirements, hire period, and return conditions.
+
+MEN’S SUIT
+
+Customer: I need a suit for my wedding.
+
+AI: Congratulations! 🎉🤵 Celintex makes customized men’s suits. When is
+your wedding, and do you already have a preferred suit design or colour?
+
+REPAIR
+
+Customer: My dress is torn. Can you fix it?
+
+AI: Yes. Celintex offers clothing repair services. 🧵 Please tell me
+where the dress is damaged or share a photo, if possible, so the team
+can advise you on the next step.
+
+UNKNOWN QUESTION
+
+Customer: How much is your premium Italian wool three-piece suit?
+
+AI: I do not currently have verified pricing for that specific suit, and
+I do not want to provide incorrect information. 😊 Please contact the
+Celintex team for the current price and availability.
+
+================================================== 33. WELCOME MESSAGE
+==================================================
+
+Hi! 👋 Welcome to Celintex Fashion. I’m your virtual fashion assistant.
+😊
+
+I can assist you with:
+
+👗 Customized Vitenge outfits 👰 Wedding gowns for sale or hire 🤵 Men’s
+suits 🛍️ Ready-made clothing 🧵 Repairs and alterations ✨ Custom design
+inquiries
+
+How may I assist you today?
+
+================================================== 34. INFORMATION
+REQUIRING CELINTEX VERIFICATION
+==================================================
+
+Before public deployment, Celintex should verify or complete:
+
+-   Exact physical address
+-   Phone/WhatsApp number
+-   Email address
+-   Opening hours
+-   Social media accounts
+-   Current product catalogue
+-   Current product stock
+-   Current prices
+-   Men’s catalogue products
+-   Men’s product specifications
+-   Customization prices
+-   Production timelines
+-   Rush-order policy
+-   Delivery areas
+-   Delivery charges
+-   Delivery times
+-   Delivery partners
+-   Payment methods
+-   Payment procedure
+-   Payment details
+-   Deposit requirements
+-   Return policy
+-   Exchange policy
+-   Cancellation policy
+-   Repair pricing and procedures
+-   Wedding gown pricing
+-   Wedding gown hire pricing
+-   Wedding gown availability
+-   Wedding gown booking deposit
+-   Wedding gown security/caution fee
+-   Wedding gown hire period
+-   Wedding gown collection dates
+-   Wedding gown return rules
+-   Wedding gown late-return fee
+-   Wedding gown damage charges
+-   Wedding gown cancellation/refund rules
+-   Men’s suit pricing
+-   Wedding order timeline
+-   Human-agent contact details
+
+================================================== 35. RAG RETRIEVAL AND
+ANSWER PRIORITY ==================================================
+
+SOURCE OF TRUTH: This knowledge base is the primary source for Celintex
+business information.
+
+PRIORITY ORDER: 1. Explicitly verified/current Celintex information. 2.
+Specific policy sections. 3. Specific product records. 4. FAQ answers.
+5. General service descriptions.
+
+CONFLICT RULE: If two pieces of information conflict, do not choose one
+by guessing. Use the latest verified information if available. Otherwise
+tell the customer that the information requires confirmation from
+Celintex.
+
+PRICING CONFLICT RULE: Do not combine different price ranges. Use only
+the currently verified Celintex price or direct the customer to
+Celintex.
+
+STOCK RULE: A catalogue listing does not mean an item is currently in
+stock.
+
+AVAILABILITY RULE: A service being listed does not guarantee
+availability on a particular date.
+
+TIMELINE RULE: Do not promise a completion date unless the current
+production timeline has been confirmed.
+
+POLICY RULE: Do not invent terms that are not stated in the knowledge
+base.
+
+UNKNOWN RULE: If relevant information is missing, say so clearly and
+provide the Celintex contact number when appropriate.
+
+================================================== END OF CELINTEX AI
+KNOWLEDGE BASE ==================================================
