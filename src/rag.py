@@ -39,7 +39,15 @@ embedding_function = DefaultEmbeddingFunction()
 collection = client.get_or_create_collection(
     name="celintex_knowledge",
     embedding_function=embedding_function
-)
+ )
+
+# ============================================================
+# ENSURE KNOWLEDGE BASE EXISTS
+# ============================================================
+
+if collection.count() == 0:
+    build_knowledge_base()
+
 
 # ============================================================
 # LOAD KNOWLEDGE BASE
@@ -221,6 +229,15 @@ def build_knowledge_base():
     print(
         f"Chunks stored: {len(documents)}"
     )
+
+
+# ============================================================
+# AUTO-BUILD KNOWLEDGE BASE
+# ============================================================
+
+if collection.count() == 0:
+    print("Chroma database is empty. Building knowledge base...")
+    build_knowledge_base()
 
 
 # ============================================================
