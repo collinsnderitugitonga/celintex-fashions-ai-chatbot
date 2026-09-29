@@ -1,0 +1,980 @@
+/* ============================================================
+   CELINTEX FASHION WEBSITE
+   Purple / Pink Design
+============================================================ */
+
+
+/* ============================================================
+   RESET
+============================================================ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family:
+        Inter,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+
+    color: #292535;
+
+    background:
+        linear-gradient(
+            135deg,
+            #fff7fb 0%,
+            #f8f5ff 45%,
+            #f4fbfa 100%
+        );
+
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+button,
+input {
+    font: inherit;
+}
+
+
+/* ============================================================
+   NAVIGATION
+============================================================ */
+
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 18px 6%;
+
+    background: rgba(255, 255, 255, 0.88);
+
+    backdrop-filter: blur(16px);
+
+    border-bottom: 1px solid #eaddec;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    color: #4b164c;
+
+    font-size: 21px;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+.logo-icon {
+    font-size: 25px;
+}
+
+.nav-links {
+    display: flex;
+    gap: 30px;
+}
+
+.nav-links a {
+    color: #5d5362;
+
+    font-size: 14px;
+    font-weight: 600;
+
+    transition: 0.2s ease;
+}
+
+.nav-links a:hover {
+    color: #7b3f78;
+}
+
+.nav-chat-button {
+    border: none;
+
+    padding: 11px 18px;
+
+    border-radius: 12px;
+
+    color: white;
+
+    background:
+        linear-gradient(
+            135deg,
+            #4b164c,
+            #9c6ade
+        );
+
+    font-size: 13px;
+    font-weight: 700;
+
+    cursor: pointer;
+
+    box-shadow:
+        0 6px 18px rgba(105, 55, 120, 0.2);
+
+    transition: 0.2s ease;
+}
+
+.nav-chat-button:hover {
+    transform: translateY(-2px);
+}
+
+
+/* ============================================================
+   HERO
+============================================================ */
+
+.hero {
+    min-height: 680px;
+
+    display: grid;
+
+    grid-template-columns:
+        1.15fr
+        0.85fr;
+
+    align-items: center;
+
+    gap: 70px;
+
+    max-width: 1200px;
+
+    margin: auto;
+
+    padding: 90px 6%;
+}
+
+.hero-content {
+    max-width: 650px;
+}
+
+.hero-badge {
+    display: inline-block;
+
+    padding: 8px 14px;
+
+    border-radius: 30px;
+
+    color: #6b3471;
+
+    background: #f5e8fa;
+
+    border: 1px solid #e2cde9;
+
+    font-size: 11px;
+
+    font-weight: 800;
+
+    letter-spacing: 1px;
+
+    margin-bottom: 22px;
+}
+
+.hero h1 {
+    color: #3b173d;
+
+    font-size: clamp(48px, 7vw, 78px);
+
+    line-height: 1.03;
+
+    letter-spacing: -3px;
+
+    margin-bottom: 25px;
+}
+
+.hero h1 span {
+    background:
+        linear-gradient(
+            135deg,
+            #7b3f78,
+            #9c6ade
+        );
+
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.hero-content > p {
+    max-width: 570px;
+
+    color: #665e6b;
+
+    font-size: 17px;
+
+    line-height: 1.8;
+
+    margin-bottom: 32px;
+}
+
+.hero-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 13px;
+}
+
+.primary-button,
+.secondary-button {
+    display: inline-flex;
+
+    align-items: center;
+    justify-content: center;
+
+    min-height: 50px;
+
+    padding: 0 22px;
+
+    border-radius: 14px;
+
+    font-weight: 750;
+
+    cursor: pointer;
+
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.primary-button {
+    border: none;
+
+    color: white;
+
+    background:
+        linear-gradient(
+            135deg,
+            #4b164c,
+            #9c6ade
+        );
+
+    box-shadow:
+        0 9px 25px rgba(99, 57, 126, 0.22);
+}
+
+.primary-button:hover {
+    transform: translateY(-2px);
+
+    box-shadow:
+        0 13px 30px rgba(99, 57, 126, 0.28);
+}
+
+.secondary-button {
+    border: 1px solid #ddcce3;
+
+    color: #4b164c;
+
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.secondary-button:hover {
+    transform: translateY(-2px);
+
+    background: white;
+}
+
+
+/* ============================================================
+   HERO CARD
+============================================================ */
+
+.hero-card {
+    min-height: 400px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+
+    text-align: center;
+
+    padding: 40px;
+
+    border-radius: 35px;
+
+    color: white;
+
+    background:
+        linear-gradient(
+            145deg,
+            #4b164c,
+            #7b3f78 50%,
+            #9c6ade
+        );
+
+    box-shadow:
+        0 25px 60px rgba(85, 43, 94, 0.25);
+
+    position: relative;
+
+    overflow: hidden;
+}
+
+.hero-card::before {
+    content: "";
+
+    position: absolute;
+
+    width: 260px;
+    height: 260px;
+
+    border-radius: 50%;
+
+    background: rgba(255,255,255,0.08);
+
+    top: -100px;
+    right: -80px;
+}
+
+.hero-card-icon {
+    position: relative;
+
+    font-size: 85px;
+
+    margin-bottom: 20px;
+}
+
+.hero-card h3 {
+    position: relative;
+
+    font-size: 32px;
+
+    letter-spacing: 5px;
+}
+
+.hero-card p {
+    position: relative;
+
+    color: #f6eafa;
+
+    margin-top: 5px;
+}
+
+.online-status {
+    position: relative;
+
+    display: inline-flex;
+
+    align-items: center;
+
+    gap: 8px;
+
+    margin-top: 28px;
+
+    padding: 8px 15px;
+
+    border-radius: 30px;
+
+    background: rgba(255,255,255,0.13);
+
+    border: 1px solid rgba(255,255,255,0.2);
+
+    font-size: 12px;
+
+    font-weight: 700;
+}
+
+.online-status span {
+    width: 8px;
+    height: 8px;
+
+    border-radius: 50%;
+
+    background: #7dffb2;
+
+    box-shadow:
+        0 0 10px #7dffb2;
+}
+
+
+/* ============================================================
+   GENERAL SECTIONS
+============================================================ */
+
+section {
+    scroll-margin-top: 90px;
+}
+
+.section-heading {
+    text-align: center;
+
+    max-width: 650px;
+
+    margin: 0 auto 45px;
+}
+
+.section-heading > span,
+.section-label {
+    color: #8a4a91;
+
+    font-size: 11px;
+
+    font-weight: 900;
+
+    letter-spacing: 2px;
+}
+
+.section-heading h2 {
+    color: #421844;
+
+    font-size: clamp(32px, 5vw, 48px);
+
+    margin: 8px 0 12px;
+}
+
+.section-heading p {
+    color: #706774;
+
+    line-height: 1.8;
+}
+
+
+/* ============================================================
+   SERVICES
+============================================================ */
+
+.services-section {
+    max-width: 1200px;
+
+    margin: auto;
+
+    padding: 100px 6%;
+}
+
+.services-grid {
+    display: grid;
+
+    grid-template-columns:
+        repeat(3, 1fr);
+
+    gap: 20px;
+}
+
+.service-card {
+    padding: 28px;
+
+    border-radius: 22px;
+
+    background:
+        rgba(255,255,255,0.82);
+
+    border: 1px solid #eaddec;
+
+    box-shadow:
+        0 7px 25px rgba(74, 39, 82, 0.06);
+
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-5px);
+
+    box-shadow:
+        0 15px 35px rgba(74, 39, 82, 0.1);
+}
+
+.service-icon {
+    width: 55px;
+    height: 55px;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 16px;
+
+    background: #f5eafa;
+
+    font-size: 25px;
+
+    margin-bottom: 18px;
+}
+
+.service-card h3 {
+    color: #4b164c;
+
+    margin-bottom: 8px;
+
+    font-size: 18px;
+}
+
+.service-card p {
+    color: #716974;
+
+    font-size: 14px;
+
+    line-height: 1.7;
+}
+
+
+/* ============================================================
+   ABOUT
+============================================================ */
+
+.about-section {
+    padding: 110px 6%;
+
+    background:
+        linear-gradient(
+            135deg,
+            #4b164c,
+            #70406f,
+            #9c6ade
+        );
+
+    color: white;
+}
+
+.about-content {
+    max-width: 850px;
+
+    margin: auto;
+
+    text-align: center;
+}
+
+.about-content .section-label {
+    color: #f0d9f5;
+}
+
+.about-content h2 {
+    font-size: clamp(36px, 6vw, 58px);
+
+    line-height: 1.1;
+
+    margin: 12px 0 25px;
+}
+
+.about-content h2 span {
+    color: #f2c8ff;
+}
+
+.about-content p {
+    max-width: 680px;
+
+    margin: 0 auto 12px;
+
+    color: #f3e7f5;
+
+    line-height: 1.8;
+}
+
+.about-content .primary-button {
+    margin-top: 25px;
+
+    background: white;
+
+    color: #4b164c;
+}
+
+
+/* ============================================================
+   AI SECTION
+============================================================ */
+
+.ai-section {
+    max-width: 900px;
+
+    margin: auto;
+
+    padding: 110px 6%;
+}
+
+.chat-container {
+    overflow: hidden;
+
+    border-radius: 25px;
+
+    background: white;
+
+    border: 1px solid #e5d8e9;
+
+    box-shadow:
+        0 15px 45px rgba(72, 42, 80, 0.1);
+}
+
+.chat-header {
+    padding: 20px 24px;
+
+    color: white;
+
+    background:
+        linear-gradient(
+            135deg,
+            #4b164c,
+            #8d55a3
+        );
+}
+
+.chat-header strong {
+    font-size: 16px;
+}
+
+.chat-header small {
+    display: block;
+
+    color: #d9ffd9;
+
+    margin-top: 3px;
+
+    font-size: 11px;
+}
+
+.chat-messages {
+    min-height: 300px;
+
+    max-height: 450px;
+
+    overflow-y: auto;
+
+    padding: 25px;
+}
+
+.message {
+    display: flex;
+
+    gap: 10px;
+
+    margin-bottom: 18px;
+}
+
+.message-avatar {
+    width: 35px;
+    height: 35px;
+
+    flex-shrink: 0;
+
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 50%;
+
+    background: #f5eafa;
+}
+
+.message-bubble {
+    max-width: 75%;
+
+    padding: 13px 16px;
+
+    border-radius: 16px;
+
+    font-size: 14px;
+
+    line-height: 1.65;
+}
+
+.assistant-message .message-bubble {
+    color: #3c3540;
+
+    background: #f8f5f9;
+
+    border: 1px solid #eaddec;
+}
+
+.user-message {
+    flex-direction: row-reverse;
+}
+
+.user-message .message-bubble {
+    color: white;
+
+    background:
+        linear-gradient(
+            135deg,
+            #6e3574,
+            #9863b0
+        );
+}
+
+.chat-form {
+    display: flex;
+
+    gap: 10px;
+
+    padding: 16px;
+
+    border-top: 1px solid #eaddec;
+
+    background: #fcfafc;
+}
+
+.chat-form input {
+    flex: 1;
+
+    min-width: 0;
+
+    border: 2px solid #dfd1e3;
+
+    border-radius: 14px;
+
+    outline: none;
+
+    padding: 13px 15px;
+
+    color: #292535;
+
+    background: white;
+}
+
+.chat-form input:focus {
+    border-color: #8d55a3;
+
+    box-shadow:
+        0 0 0 3px rgba(141,85,163,0.1);
+}
+
+.chat-form button {
+    width: 48px;
+
+    border: none;
+
+    border-radius: 14px;
+
+    color: white;
+
+    background:
+        linear-gradient(
+            135deg,
+            #4b164c,
+            #9c6ade
+        );
+
+    cursor: pointer;
+
+    font-size: 20px;
+}
+
+
+/* ============================================================
+   CONTACT
+============================================================ */
+
+.contact-section {
+    padding: 80px 6%;
+}
+
+.contact-card {
+    max-width: 900px;
+
+    margin: auto;
+
+    padding: 55px 30px;
+
+    border-radius: 30px;
+
+    text-align: center;
+
+    color: white;
+
+    background:
+        linear-gradient(
+            135deg,
+            #39203d,
+            #603d66
+        );
+
+    box-shadow:
+        0 20px 50px rgba(63, 32, 69, 0.2);
+}
+
+.contact-card > span {
+    color: #e8cbed;
+
+    font-size: 11px;
+
+    font-weight: 900;
+
+    letter-spacing: 2px;
+}
+
+.contact-card h2 {
+    font-size: clamp(30px, 5vw, 48px);
+
+    line-height: 1.15;
+
+    margin: 12px 0;
+}
+
+.contact-card h2 strong {
+    color: #e0a9ed;
+}
+
+.contact-card p {
+    color: #eadfed;
+
+    margin-bottom: 25px;
+}
+
+.contact-card .primary-button {
+    background: white;
+
+    color: #4b164c;
+}
+
+
+/* ============================================================
+   FOOTER
+============================================================ */
+
+footer {
+    padding: 45px 20px;
+
+    text-align: center;
+
+    background: #27152a;
+
+    color: #d9c9dc;
+}
+
+.footer-logo {
+    color: white;
+
+    font-size: 19px;
+
+    font-weight: 900;
+
+    letter-spacing: 2px;
+
+    margin-bottom: 7px;
+}
+
+footer p {
+    font-size: 13px;
+}
+
+footer .copyright {
+    margin-top: 20px;
+
+    color: #9e8da2;
+
+    font-size: 11px;
+}
+
+
+/* ============================================================
+   RESPONSIVE DESIGN
+============================================================ */
+
+@media (max-width: 850px) {
+
+    .navbar {
+        padding: 15px 5%;
+    }
+
+    .nav-links {
+        display: none;
+    }
+
+    .hero {
+        grid-template-columns: 1fr;
+
+        padding-top: 65px;
+
+        text-align: center;
+    }
+
+    .hero-content {
+        margin: auto;
+    }
+
+    .hero-content > p {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .hero-buttons {
+        justify-content: center;
+    }
+
+    .hero-card {
+        max-width: 500px;
+
+        width: 100%;
+
+        margin: auto;
+    }
+
+    .services-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+
+@media (max-width: 560px) {
+
+    .nav-chat-button {
+        display: none;
+    }
+
+    .hero {
+        min-height: auto;
+
+        padding-top: 55px;
+        padding-bottom: 70px;
+    }
+
+    .hero h1 {
+        font-size: 49px;
+
+        letter-spacing: -2px;
+    }
+
+    .hero-buttons {
+        flex-direction: column;
+    }
+
+    .hero-buttons a,
+    .hero-buttons button {
+        width: 100%;
+    }
+
+    .hero-card {
+        min-height: 320px;
+    }
+
+    .services-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .services-section,
+    .ai-section {
+        padding-top: 75px;
+        padding-bottom: 75px;
+    }
+
+    .chat-messages {
+        padding: 18px;
+    }
+
+    .message-bubble {
+        max-width: 85%;
+    }
+
+    .contact-card {
+        padding: 40px 20px;
+    }
+}
